@@ -1,2 +1,2 @@
 # RESEARCH-ASSIGNMENT-DATA-ANALYTICS-FUNDAMENTALS
-A research completion demonstrating my understanding of basic data analytics concepts .
+A research project demonstrating my understanding of basic data analytics concepts.
